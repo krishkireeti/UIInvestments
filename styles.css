@@ -1,0 +1,590 @@
+body{
+position :relative;
+top: 0px;
+left: 0px;
+width: 1920px;
+height: 2024px;
+background: #F4F4F4 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+.navbarlist{
+  height : 100px;
+}
+.navlist {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+.menuimg {
+ position: relative;
+ top: 43px;
+left: 56px;
+width: 26px;
+height: 17px;
+background:0% 0% no-repeat padding-box;
+opacity: 1;
+}
+.logo{
+position : relative;
+bottom: 20px;
+left: 180px;
+width: 86px;
+height: 39px;
+text-align: left;
+font: normal normal 900 30px/39px Roboto;
+letter-spacing: 3px;
+color: #2462ED;
+opacity: 0.3;
+}
+.Invest{
+position : absolute;
+top: 15px;
+left: 395px;
+width: 59px;
+height: 27px;
+text-align: left;
+font: normal normal 600 20px/30px Open Sans;
+letter-spacing: 0px;
+color: #333F52;
+opacity: 1;
+}
+.Learn {
+position : absolute;
+top: 15px;
+left: 534px;
+width: 55px;
+height: 27px;
+text-align: left;
+font: normal normal 600 20px/30px Open Sans;
+letter-spacing: 0px;
+color: #333F52;
+opacity: 1;
+}
+.Home {
+position : absolute;
+top: 15px;
+left: 1207px;
+width: 58px;
+height: 27px;
+text-align: left;
+font: normal normal 600 20px/30px Open Sans;
+letter-spacing: 0px;
+color: #2462ED;
+opacity: 1;
+}
+.About {
+position : absolute;
+top: 15px;
+left: 1315px;
+width: 58px;
+height: 27px;
+text-align: left;
+font: normal normal 600 20px/30px Open Sans;
+letter-spacing: 0px;
+color: #333F52;
+opacity: 0.3;
+}
+.Blogs {
+position : absolute;
+top: 15px;
+left: 1423px;
+width: 52px;
+height: 27px;
+text-align: left;
+font: normal normal 600 20px/30px Open Sans;
+letter-spacing: 0px;
+color: #333F52;
+opacity: 0.3;
+}
+.btnlogin{
+position : absolute;
+top: 30px;
+left: 1533px;
+width: 153px;
+height: 46px;
+background: #2462ED 0% 0% no-repeat padding-box;
+border-radius: 2px;
+opacity: 1;
+text-align: center;
+font: normal normal 600 18px/32px Proxima Nova;
+letter-spacing: 0px;
+color: #FFFFFF;
+}
+.wealthcreation{
+position : absolute;
+top: 140px;
+left: 140px;
+width: 454px;
+height: 41px;
+text-align: left;
+font: normal normal bold 30px/41px Open Sans;
+letter-spacing: 0px;
+color: #333F52;
+opacity: 1;
+}
+.Longtermcapital{
+position : absolute;
+top: 211px;
+left: 140px;
+width: 987px;
+height: 72px;
+text-align: left;
+font: normal normal normal 22px/42px Open Sans;
+letter-spacing: 0px;
+color: #333F52;
+opacity: 1;
+}
+
+.qn{
+ position : absolute;
+ top: 336px;
+left: 175px;
+width: 774px;
+height: 24px;
+text-align: left;
+letter-spacing: 0px;
+background : #E6EBFF 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+.qtn {
+position : absolute;
+ top: 0px;
+left: 0px;
+width: 122px;
+height: 24px;
+text-align: left;
+font: normal normal bold 18px/30px Open Sans;
+letter-spacing: 0px;
+color: #2462ED;
+}
+.qn2{
+position : absolute;
+top: 0px;
+left: 122px;
+width: 647px;
+height: 24px;
+text-align: left;
+font: normal normal normal 18px/30px Open Sans;
+letter-spacing: 0px;
+color: #333F52;
+}
+.more {
+  position : absolute;
+  top: 0px;
+left: 1294px;
+width: 173px;
+height: 41px;
+text-align: left;
+font: normal normal bold 30px/41px Open Sans;
+letter-spacing: 0px;
+color: #333F52;
+opacity: 1;
+}
+.videoimg {
+position : absolute;
+top: 101px;
+left: 1294px;
+width: 486px;
+height: 300px;
+background: 0% 0% no-repeat padding-box;
+border-radius: 10px;
+opacity: 1;
+}
+.playimg {
+position : relative;
+top: 128px;
+left: 1507px;
+width: 59px;
+height: 44px;
+background: 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+.linebar {
+ position : absolute;
+ top: 432px;
+}
+.lumpsum{
+position : absolute; 
+top: 0px;
+left: 140px;
+width: 129px;
+height: 36px;
+text-align: left;
+font: normal normal bold 26px/36px Open Sans;
+letter-spacing: 0px;
+color: #2462ED;
+opacity: 1;
+}
+.sip {
+position : absolute;
+top: 0px;
+left: 309px;
+width: 39px;
+height: 36px;
+text-align: left;
+font: normal normal bold 26px/36px Open Sans;
+letter-spacing: 0px;
+color: #333F52;
+opacity: 0.3;
+}
+.dash {
+position : absolute;
+top: 18px;
+left: 140px;
+width: 128px;
+height: 4px;
+background: #2462ED 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+.canInvest{
+position : absolute;
+top: 541px;
+left: 140px;
+width: 125px;
+height: 33px;
+text-align: left;
+font: normal normal normal 24px/33px Open Sans;
+letter-spacing: 0px;
+color: #333F52;
+opacity: 1;
+}
+.Money10k{
+position : absolute;
+top: 560px;
+left: 1076px;
+width: 136px;
+height: 41px;
+text-align: left;
+font: normal normal 600 30px/41px Open Sans;
+letter-spacing: 0px;
+color: #2462ED;
+opacity: 1;
+}
+.scheme {
+position : absolute;
+top: 582px;
+left: 1429px;
+width: 229px;
+height: 41px;
+text-align: left;
+font: normal normal bold 30px/41px Open Sans;
+letter-spacing: 0px;
+color: #333F52;
+opacity: 1;
+}
+.icicifund {
+position : absolute;
+top: 617px;
+left: 1429px;
+width: 292px;
+height: 27px;
+text-align: left;
+font: normal normal 600 20px/27px Open Sans;
+letter-spacing: 0px;
+color: #2462ED;
+opacity: 1;
+}
+.years {
+position : absolute;
+top: 731px;
+left: 140px;
+width: 236px;
+height: 33px;
+text-align: left;
+font: normal normal normal 24px/33px Open Sans;
+letter-spacing: 0px;
+color: #333F52;
+opacity: 1;
+}
+.slidecontainer{
+position : absolute;
+top: 648px;
+left: 196px;
+width: 978px;
+height: 0px;
+border: 4px solid #BEC4CC;
+background: #2462ED 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+.slidecontainer2{ 
+position : absolute;
+top: 619px;
+left: 458px;
+width: 38px;
+height: 54px;
+border-radius: 28px;
+opacity: 1;
+}
+.toggle__item{
+ position : absolute;
+ top: 432px;
+left: 140px;
+width: 129px;
+height: 36px;
+text-align: left;
+font: normal normal bold 26px/36px Open Sans;
+letter-spacing: 0px;
+color: #2462ED;
+opacity: 1;
+}
+.firstsvg{
+position : absolute;
+top: 805px;
+left: 140px;
+width: 136px;
+height: 64px;
+background: #2462ED 0% 0% no-repeat padding-box;
+text-align : center;
+color: #FFFFFF;
+border: 1px solid #2462ED;
+border-radius: 60px;
+opacity: 1
+}
+.secondsvg{
+position : absolute;
+top: 805px;
+left: 316px;
+width: 136px;
+height: 64px;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+color : #BEC4CC;
+text-align : center;
+border: 1px solid #BEC4CC;
+border-radius: 60px;
+opacity: 1;
+}
+.thirdsvg{
+position : absolute;
+top: 805px;
+left: 493px;
+width: 135px;
+height: 64px;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+color : #BEC4CC;
+text-align : center;
+
+border: 1px solid #BEC4CC;
+border-radius: 60px;
+opacity: 1;
+}
+text {
+text-align: center;
+font: normal normal bold 26px/55px Open Sans;
+letter-spacing: 0px;
+}
+.Historicalreturns{
+position : absolute;
+top: 949px;
+left: 140px;
+width: 285px;
+height: 66px;
+text-align: left;
+font: normal normal 600 24px/33px Open Sans;
+letter-spacing: 0px;
+color: #333F52;
+opacity: 1;
+}
+.Moneylpa{
+  position : absolute;
+  top: 939px;
+left: 1018px;
+width: 210px;
+height: 46px;
+text-align: right;
+font: normal normal 600 34px/46px Open Sans;
+letter-spacing: 0px;
+color: #2462ED;
+opacity: 1;
+}
+.Annualreturns{
+position : absolute;
+top: 987px;
+left: 937px;
+width: 291px;
+height: 33px;
+text-align: right;
+font: normal normal 600 24px/33px Open Sans;
+letter-spacing: 0px;
+color: #333F52;
+opacity: 1;
+}
+.Investmentbegin{
+position : absolute;
+top: 1090px;
+left: 140px;
+width: 323px;
+height: 60px;
+background: #2462ED 0% 0% no-repeat padding-box;
+border-radius: 2px;
+opacity: 1;
+text-align: center;
+font: normal normal bold 20px/44px Open Sans;
+color: #FFFFFF;
+letter-spacing: 0px;
+}
+.Investmentneed{
+position : absolute;
+top: 1090px;
+left: 513px;
+width: 323px;
+height: 60px;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+border: 2px solid #2462ED;
+border-radius: 2px;
+opacity: 1;
+text-align: center;
+font: normal normal bold 20px/44px Open Sans;
+letter-spacing: 0px;
+color: #2462ED;
+}
+.Investmentplan{
+position : absolute;
+top: 1230px;
+left: 0px;
+width: 1920px;
+height: 794px;
+background: #E8ECF4 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+.planInvestment {
+ position : absolute;
+ top: 50px;
+left: 140px;
+width: 401px;
+height: 41px;
+text-align: left;
+font: normal normal bold 30px/41px Open Sans;
+letter-spacing: 0px;
+color: #333F52;
+opacity: 1;
+}
+.FundInvestment{
+  position : absolute;
+  top: 0px;
+left: 0px;
+width: 1640px;
+height: 117px;
+background: #F8FAFF 0% 0% no-repeat padding-box;
+border-radius: 10px;
+opacity: 1;
+text-align: center;
+font: normal normal normal 24px/42px Open Sans;
+letter-spacing: 0px;
+color: #333F52;
+
+}
+.Funds{
+  position : absolute;
+  top: 161px;
+left: 140px;
+width: 1640px;
+height: 481px;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+border-radius: 10px;
+opacity: 1;
+}
+.FundInvest2{
+position : absolute;
+left : 173px;
+width: 1294px;
+height: 117px;
+top: 12px;
+text-align: center;
+font: normal normal normal 24px/42px Open Sans;
+letter-spacing: 0px;
+color: #333F52;
+opacity: 1;
+}
+.Financetext {
+   position : absolute;
+   top: 98px;
+left: 827px;
+width: 326px;
+height: 38px;
+text-align: left;
+font: normal normal 600 28px/42px Open Sans;
+letter-spacing: 0px;
+color: #333F52;
+opacity: 1;
+}
+.Money100{
+position : absolute;
+top: 138px;
+left: 597px;
+width: 158px;
+height: 55px;
+text-align: left;
+font: normal normal 600 40px/42px Open Sans;
+letter-spacing: 0px;
+color: #333F52;
+opacity: 0.2
+}
+.contentnext {
+position : absolute;
+top: 147px;
+left: 924px;
+width: 94px;
+height: 38px;
+text-align: left;
+font: normal normal 600 28px/42px Open Sans;
+letter-spacing: 0px;
+color: #333F52;
+opacity: 1;
+}
+.dash1{
+  position : absolute;
+  top: 224px;
+left: 493px;
+width: 367px;
+height: 2px;
+border: 3px solid #2462ED;
+opacity: 1;
+}
+.yrsnum {
+position : absolute;
+ top: 138px;
+left: 1187px;
+width: 23px;
+height: 55px;
+text-align: left;
+font: normal normal 600 40px/42px Open Sans;
+letter-spacing: 0px;
+color: #333F52;
+opacity: 0.2;
+}
+.dash2{
+position : absolute;
+  top: 224px;
+left: 1090px;
+width: 218px;
+height: 0px;
+border: 3px solid #2462ED;
+opacity: 1;
+}
+.yrs{
+position : absolute;
+ top: 147px;
+left: 1348px;
+width: 75px;
+height: 38px;
+text-align: left;
+font: normal normal 600 28px/42px Open Sans;
+letter-spacing: 0px;
+color: #333F52;
+opacity: 1;
+}
+.btnnext{
+  position : absolute;
+  top: 310px;
+left: 874px;
+width: 171px;
+height: 60px;
+background: #2462ED 0% 0% no-repeat padding-box;
+opacity: 1;
+text-align: center;
+font: normal normal bold 20px/44px Open Sans;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+}
